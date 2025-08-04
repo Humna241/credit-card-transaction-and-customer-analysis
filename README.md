@@ -7,7 +7,7 @@ Total Interest Earned: 7.84M
 Transaction Count: 656K
 
 
-**Insights & Recommendations:**
+**Insights & Recommendations:** 
 
 1. Blue credit card generates high revenue among them.
 2. Businessmen, graduates, and married persons contribute the most.
