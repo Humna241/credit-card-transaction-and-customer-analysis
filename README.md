@@ -14,3 +14,11 @@ Transaction Count: 656K
 3. Swipe transactions generate twice the revenue as compared to chip and online methods.
 4. Texas and New York contributed the most with high and medium income groups.
 5. Revenue peaked in Q2 (mid-2023) but declined in Q4; we need some strategy to increase at the end of the fiscal year.
+
+6. ## Dashboard Preview
+![Dashboard Preview](https://github.com/Humna241/credit-card-transaction-and-customer-analysis/blob/main/Credit%20card%20transaction%201.PNG)
+
+## Dashboard Preview
+![Dashboard Preview](https://github.com/Humna241/credit-card-transaction-and-customer-analysis/blob/main/Credit%20%20card%20customer%202.PNG)
+
+
