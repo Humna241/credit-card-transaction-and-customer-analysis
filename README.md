@@ -1,9 +1,13 @@
 **Created a Power BI dashboard for Credit card Transactions and Credit card Customers**
 
 **KPI Summary**:
+
 Total Revenue: 55M
+
 Total Transaction Amount: 45M
+
 Total Interest Earned: 7.84M
+
 Transaction Count: 656K
 
 
